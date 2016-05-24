@@ -10,4 +10,4 @@ If you want to request a certain type of feature or find lack of documentation r
 
 1. [Prism](/documentation/prism-support.md)
 2. [Codepen](/documentation/codepen-embed.md)
-3. [Tablesaw]/documentation/tablesaw-usage.md)
+3. [Tablesaw](/documentation/tablesaw-usage.md)
