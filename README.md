@@ -4,7 +4,7 @@
 
 In the `/documentation` directory you will find markdown files explaining certain features of Smashing Magazine and how to use them in your editorial- and/or writing-process.
 
-If you want to request a certain type of feature or find lack of documentation regarding markup in articles, feel free to [create an issue](/issues) for this repository.
+If you want to request a certain type of feature or find lack of documentation regarding markup in articles, feel free to [create an issue](https://github.com/smashingmagazine/smashingmagazine-documentation/issues) for this repository.
 
 ## Index
 
