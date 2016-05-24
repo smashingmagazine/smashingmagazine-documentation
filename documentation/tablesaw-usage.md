@@ -4,7 +4,7 @@
 
 To use [Tablesaw](https://github.com/filamentgroup/tablesaw) in articles its script of the same name needs to be activated. In order to do this you will need to check the box inside the "Custom Post Options" (on `post.php` right under the textarea of your article) in the WordPress backend. Next to the checkbox you can read "Enable the tablesaw-JS for responsive tables"
 
-![Enabling Tablesaw in the WordPress backend](tablesaw-usage-screen-01.png)
+![Enabling Tablesaw in the WordPress backend](/assets/tablesaw/tablesaw-usage-screen-01.png)
 
 By doing so and saving your draft `tablesaw.js` and `jquery.js` will now be sent to the user when requesting your article.
 
@@ -75,4 +75,4 @@ After setting the table up, you may again save your draft and preview your doing
 
 If you followed the markup conventions what you get should look something like this example I made a screenshot of:
 
-![Example output inside an article](tablesaw-usage-screen-02.png)
+![Example output inside an article](/assets/tablesaw/tablesaw-usage-screen-02.png)
