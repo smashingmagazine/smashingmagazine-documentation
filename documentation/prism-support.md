@@ -1,14 +1,16 @@
 # Prism.js – Smashing Syntax Highlighting
 
-## [!] Changes in `prism.js`-script
+In order to give code examples in articles a stronger look, we do some syntax highlighting with the help of [Lea Verou's](http://lea.verou.me/) [Prism.js](http://prismjs.com/).
 
-I've removed the following code block completely:
+## Changes in the `prism.js`-script
+
+Chris removed the following code block completely:
 
 ```js
 document.addEventListener&&!r.hasAttribute("data-manual")&&document.addEventListener("DOMContentLoaded",n.highlightAll)
 ```
 
-and called the `Prism.highlightAll()` and the bottom of the script file. We're loading the script now async and on DOMContentLoaded, so the JS-execution of highlighting the code can be done directly in script. 
+and called the `Prism.highlightAll()` at the bottom of the script file. That way we're loading the script async now and on DOMContentLoaded, so the JS-execution of highlighting the code can be done directly in script.
 
 ## What languages are supported now?
 

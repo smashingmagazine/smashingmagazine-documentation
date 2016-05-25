@@ -13,6 +13,7 @@ I hope all of this is helpful.
 1. [Prism](/documentation/prism-support.md)
 2. [Codepen](/documentation/codepen-embed.md)
 3. [Tablesaw](/documentation/tablesaw-usage.md)
+4. [Videos](/documentation/embedding-videos.md)
 
 ## That's all folks
 
