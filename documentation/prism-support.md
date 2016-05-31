@@ -30,11 +30,12 @@ The asterisk stands for any type of language used inside the code example.
 |HTTP|language-http|
 |Jade|language-jade|
 |Java|language-java|
+|JavaScript|language-javascript|
 |JSON|language-json|
 |LESS|language-less|
 |Make|language-makefile|
 |Markdown|language-markdown|
-|Markup|language-markup|
+|Markup|language-markup `or` language-html|
 |NGINX|language-nginx|
 |Objective-C|language-objectivec|
 |Perl|language-perl|
